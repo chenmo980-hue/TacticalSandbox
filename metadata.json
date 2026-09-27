@@ -1,0 +1,8 @@
+{
+  "name": "战策沙盘 - 军事战术演练与态势标绘系统",
+  "description": "专业的战术攻防演练态势标绘与数字沙盘推演系统，支持进攻/防御态势箭头绘制、军标体系兵力部署、多阶段图层管理、推演过程实时录像导出、多端协同演练与离线部署。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
